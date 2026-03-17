@@ -13,7 +13,7 @@
   
   ##  Contact 
   - 📧 Calebcookdev@gmail.com
-  - 🔗 https://www.linkedin.com/in/caleb-cook-89a601239/
+  - 🔗 https://www.linkedin.com/in/caleb-holeman-89a601239/
 
 <!---
 Cookie915/Cookie915 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
